@@ -1,7 +1,10 @@
 # centos7 deploy_Kubernetes-v1.15.2
 # k8s脚本项目停止更新，后续脚本更新统一由kkitDeploy项目持续更新相应脚本
+
 请移步至kkitDeploy项目
+
 https://github.com/luckman666/kkitdeploy_server
+
 ##########################################################################
 
 k8s 1.15.2一键部署地址： https://github.com/luckman666/k8s1.15.2
