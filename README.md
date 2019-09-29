@@ -1,5 +1,5 @@
 # centos7 deploy_Kubernetes-v1.15.2
-# k8s脚本项目停止更新，后续脚本更新统一由kkitDeploy项目持续更新相应脚本
+# 后续脚本更新统一由kkitDeploy项目持续更新相应脚本
 
 请移步至kkitDeploy项目
 
